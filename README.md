@@ -7,7 +7,7 @@ My name is Alberto and I'm a passionate software developer from Italy. You can f
 
 Apart from coding, I also recently started a blog - you can find my articles on my website at [albertopulito.com](https://albertopulito.com/).
 
-## :computer: &nbsp;Technology Stack :
+## :computer: &nbsp;Technology Stack
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" rel="noreferrer" target="_blank">
         <img alt="azure" height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
@@ -74,7 +74,7 @@ Apart from coding, I also recently started a blog - you can find my articles on 
     </a>
 </p>
 
-## :fire: &nbsp; My GitHub History :
+## :fire: &nbsp; My GitHub History
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apulito&theme=merko&show_icons=true&locale=en" alt="apulito" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=apulito&theme=merko&date_format=j%20M%5B%20Y%5D" alt="apulito" />
