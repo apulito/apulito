@@ -1,7 +1,7 @@
 <img src="https://media2.giphy.com/media/N0PFV6nGA72XC/giphy.gif" width="100%"> 
 
 # Hello Coders :vulcan_salute:
-My name is Alberto and I'm a passionate software developer from Italy. You can find me on <a href="https://twitter.com/@quentintegamino" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/twitter.svg" alt="@quentintegamino" height="20" width="20"/></a> or on <a href="https://linkedin.com/in/alberto-pulito-86b184117" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/linkedin.svg" alt="alberto-pulito-86b184117" height="20" width="20"/></a>.
+My name is Alberto and I'm a passionate software developer from Italy. You can find me on <a href="https://twitter.com/@mrcleean1" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/twitter.svg" alt="@quentintegamino" height="20" width="20"/></a> or on <a href="https://linkedin.com/in/alberto-pulito-86b184117" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/linkedin.svg" alt="alberto-pulito-86b184117" height="20" width="20"/></a>.
 
 ## :writing_hand:&nbsp; Blog & Writing
 
